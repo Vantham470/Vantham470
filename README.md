@@ -14,9 +14,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
 
-## 👋 About Me
+
 
 # 🧑‍💻 Developer Profile
+
+<img align="left" width="186.5" src="https://github.com/Vantham470.png" alt="GitHub profile picture" />
 
 ```yaml
 Name: Thieng Vanntham

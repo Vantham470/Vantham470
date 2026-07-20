@@ -5,12 +5,12 @@
 <a href="https://github.com/Vantham470">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Thieng+Vanntham+%F0%9F%91%8B;Software+Development+Student+%F0%9F%9A%80;Aspiring+Backend+Developer+%F0%9F%92%BB;Learning+Django+%2B+Python+%2B+SQL;Always+Coding.+Always+Learning." alt="Typing SVG" />
 </a>
-
+<br/>
 <img src="https://komarev.com/ghpvc/?username=Vantham470&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views"/>
 
 </div>
 
-<br>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
 
@@ -285,7 +285,7 @@ Application for managing student information using CRUD operations.
 
 </div>
 
-## > CONTRIBUTION_SNAKE
+## 🐍 Contribute Snake
 
 <div align="center">
 

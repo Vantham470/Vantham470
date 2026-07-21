@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Thieng%20Vanntham&fontSize=55&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Student%20%7C%20Future%20Backend%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=220&section=header&text=Thieng%20Vanntham&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<a href="https://github.com/Vantham470">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Thieng+Vanntham+%F0%9F%91%8B;Software+Development+Student+%F0%9F%9A%80;Aspiring+Backend+Developer+%F0%9F%92%BB;Learning+Django+%2B+Python+%2B+SQL;Always+Coding.+Always+Learning." alt="Typing SVG" />
-</a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Vantham470&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views"/>
+<h2>🚀 Software Development Student | 💻 Aspiring Backend Developer</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Progress;Python+%7C+Django+%7C+Node.js;Building+Modern+Web+Applications;Learning+Something+New+Every+Day"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Vantham470&style=for-the-badge&color=2563eb"/>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
-
-
+---
 
 ## 🧑‍💻 Developer Profile
 
@@ -108,7 +106,6 @@ Favorite Languages:
 </tr>
 </table>
 
-> *These are skills I'm actively developing through coursework and personal projects — not claims of professional work experience.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
 
@@ -150,24 +147,25 @@ Favorite Languages:
 <hr>
 <br>
 
-### 🔵 Currently Learning
+## 📚 Currently Learning & Future Goals
 
-![Django Backend Dev](https://progress-bar.xyz/70/?title=Django%20Backend%20Dev&width=200&color=87CEEB)
-![AI & Machine Learning](https://progress-bar.xyz/40/?title=AI%20%26%20Machine%20Learning&width=200&color=87CEEB)
-![Microsoft SQL Server](https://progress-bar.xyz/55/?title=Microsoft%20SQL%20Server&width=200&color=87CEEB)
-![Java](https://progress-bar.xyz/45/?title=Java&width=200&color=87CEEB)
-![Data Structures & Algorithms](https://progress-bar.xyz/50/?title=Data%20Structures%20%26%20Algorithms&width=200&color=87CEEB)
+### 📖 Currently Learning
 
-**🟣 Future Learning Goals**
+* 🐍 **Backend Development:** Deepening `Python` `Java` & `Django`
+* 🌐 **Frontend Integration:** `HTML`, `CSS`, `JavaScript`
+* 🗄️ **Database Management:** `SQLite` & `MySQL`
 
-- [ ] 🐳 Docker
-- [ ] 🔗 REST API Best Practices
-- [ ] ☁️ Cloud Deployment
-- [ ] 🐘 PostgreSQL
-- [ ] ⚡ Redis
-- [ ] 🔄 CI/CD
-- [ ] 🏛️ System Design
+---
 
+### 🟣 Future Learning Goals
+
+* [ ] 🐳 **Docker**
+* [ ] 🔗 **REST API Best Practices**
+* [ ] ☁️ **Cloud Deployment**
+* [ ] 🐘 **PostgreSQL**
+* [ ] ⚡ **Redis**
+* [ ] 🔄 **CI/CD**
+* [ ] 🏛️ **System Design**
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
 
 ## 🚀 Featured Projects
@@ -237,13 +235,24 @@ Application for managing student information using CRUD operations.
 
 ## 🌐 Portfolio
 
+A personal portfolio website to showcase my projects, skills, and development journey.
+
 > 🚧 **Coming Soon** — my personal developer portfolio is currently under development.
 
-**Planned features:**
-- 📱 Responsive Design
-- 🗂️ Project Showcase
-- 🛠️ Skills Overview
-- ✉️ Contact Information
+### 🛠️ Tech Stack & Tools
+
+* **Languages & Web:** `Python` • `HTML` • `CSS` • `JavaScript`
+* **Framework:** `Django`
+* **Databases:** `SQLite` • `MySQL`
+
+---
+
+### ✨ Planned Features
+
+* 📱 **Responsive Design:** Optimized for seamless viewing across all devices.
+* 🗂️ **Project Showcase:** Highlighted list of key projects with demo links.
+* 🛠️ **Skills Overview:** Comprehensive summary of technologies and tools used.
+* ✉️ **Contact Information:** Easy ways to get in touch or connect.
 
 *Future plan: deploy using **Vercel** or **Render** once development is complete.*
 
@@ -273,16 +282,15 @@ Application for managing student information using CRUD operations.
 <br>
 
 ---
-
-<h3 align="center">🏁 GitHub Streak</h3>
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Vantham470&theme=react&hide_border=true&background=0D0D0D&ring=FF4500&fire=FF4500&currStreakLabel=FFA500&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFA500&dates=888888" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Vantham470&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -344,5 +352,8 @@ Application for managing student information using CRUD operations.
 > *"Code. Learn. Build. Improve."*
 
 </div>
+⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=120&section=footer"/>
+
+</div>

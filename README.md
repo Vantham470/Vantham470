@@ -261,7 +261,7 @@ Application for managing student information using CRUD operations.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -272,11 +272,13 @@ Application for managing student information using CRUD operations.
 
 <br>
 
-<h2 align="center">🏁 GitHub Streak</h2>
+---
+
+<h3 align="center">🏁 GitHub Streak</h3>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vantham470&theme=react&hide_border=true&background=0D0D0D&ring=FF4500&fire=FF4500&currStreakLabel=FFA500&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFA500&dates=888888" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Vantham470&theme=react&hide_border=true&background=0D0D0D&ring=FF4500&fire=FF4500&currStreakLabel=FFA500&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFA500&dates=888888" width="70%"/>
 
 </div>
 

@@ -286,7 +286,7 @@ A personal portfolio website to showcase my projects, skills, and development jo
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vantham470&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Vantham470&theme=gruvbox"/>
 
 </div>
 

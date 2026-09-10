@@ -48,7 +48,6 @@ Favorite Languages:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
 
-## 🛠 Technical Skills
 
 <div align="left">
 

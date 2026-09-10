@@ -52,29 +52,29 @@ Favorite Languages:
 
 <div align="left">
 
-**Programming Languages**
+## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=py,java,js,html,css,c#(.net),&theme=dark" />
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,java,spring,nodejs" height="45">
+</p>
 
-<br>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" height="45">
+</p>
 
-**Frameworks**
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" height="45">
+</p>
 
-<img src="https://skillicons.dev/icons?i=django,nodejs,spring&theme=dark" />
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="45">
+</p>
 
-<br>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,mssql&theme=dark" />
-
-<br>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-
-</div>
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
 

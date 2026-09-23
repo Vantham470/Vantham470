@@ -56,66 +56,35 @@ Favorite Languages:
 ### 🚀 Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,spring,nodejs&perline=5" height="55" alt="Backend Technologies">
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Python+%7C+Django+%7C+Java+%7C+Spring+Boot+%7C+Node.js" alt="Backend Animation">
+  <img src="ANIMATED_PYTHON_ICON" width="70">
+  <img src="ANIMATED_DJANGO_ICON" width="70">
+  <img src="ANIMATED_JAVA_ICON" width="70">
+  <img src="ANIMATED_SPRING_ICON" width="70">
+  <img src="ANIMATED_NODE_ICON" width="70">
+
 </p>
 
 ### 🌐 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript&perline=3" height="55" alt="Frontend Technologies">
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript" alt="Frontend Animation">
+  <img src="ANIMATED_HTML_ICON" width="70">
+  <img src="ANIMATED_CSS_ICON" width="70">
+  <img src="ANIMATED_JS_ICON" width="70">
+
 </p>
 
 ### 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb&perline=4" height="55" alt="Database Technologies">
+
+  <img src="ANIMATED_MYSQL_ICON" width="70">
+  <img src="ANIMATED_POSTGRES_ICON" width="70">
+  <img src="ANIMATED_SQLITE_ICON" width="70">
+  <img src="ANIMATED_MONGODB_ICON" width="70">
+
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=MySQL+%7C+PostgreSQL+%7C+SQLite+%7C+MongoDB" alt="Database Animation">
-</p>
-
-### 🛠️ Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" height="55" alt="Development Tools">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Git+%7C+GitHub+%7C+VS+Code+%7C+Linux" alt="Tools Animation">
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff88&height=3&width=100%" width="100%" alt="Divider"/>
-</p>
-
-## 🧠 Backend Skills
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Core Concepts
-
-* 🔗 REST API Development
-* 🗄️ CRUD Applications
-* 🏗️ Database Design
-* 🔐 Authentication *(Learning)*
-* 📊 SQL
-
-</td>
-
-<td width="50%" valign="top">
 
 ### 🚀 Currently Building
 

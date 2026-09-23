@@ -93,7 +93,7 @@ Favorite Languages:
   <img src="https://techstack-generator-tsg.vercel.app/java-icon.svg" width="65" height="65" alt="Java">
   <img src="https://techstack-generator-tsg.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript">
   <img src="https://techstack-generator-tsg.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL">
-  
+
 </p>
 
 ### 🚀 Currently Building
@@ -372,13 +372,3 @@ A personal portfolio website to showcase my projects, skills, and development jo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=120&section=footer"/>
 
 </div>
-## ✨ Animation
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL">
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" alt="Git">
-</p>

@@ -51,39 +51,49 @@ Favorite Languages:
 
 <div align="left">
 
-## ⚡ Tech Stack
+### Backend
 
-### 🚀 Backend
+<p>
 
-<p align="center">
-
-  <img src="ANIMATED_PYTHON_ICON" width="70">
-  <img src="ANIMATED_DJANGO_ICON" width="70">
-  <img src="ANIMATED_JAVA_ICON" width="70">
-  <img src="ANIMATED_SPRING_ICON" width="70">
-  <img src="ANIMATED_NODE_ICON" width="70">
+  <img src="https://skillicons.dev/icons?i=python,django,java,spring,nodejs" height="45">
 
 </p>
 
-### 🌐 Frontend
+### Frontend
 
-<p align="center">
+<p>
 
-  <img src="ANIMATED_HTML_ICON" width="70">
-  <img src="ANIMATED_CSS_ICON" width="70">
-  <img src="ANIMATED_JS_ICON" width="70">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" height="45">
 
 </p>
 
-### 🗄️ Database
+### Database
+
+<p>
+
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" height="45">
+
+</p>
+
+### Tools
+
+<p>
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="45">
+
+</p>
+
+---
+
+## ✨ Animation
 
 <p align="center">
-
-  <img src="ANIMATED_MYSQL_ICON" width="70">
-  <img src="ANIMATED_POSTGRES_ICON" width="70">
-  <img src="ANIMATED_SQLITE_ICON" width="70">
-  <img src="ANIMATED_MONGODB_ICON" width="70">
-
+  <img src="https://techstack-generator-tsg.vercel.app/python-icon.svg" width="65" height="65" alt="Python">
+  <img src="https://techstack-generator-tsg.vercel.app/django-icon.svg" width="65" height="65" alt="Django">
+  <img src="https://techstack-generator-tsg.vercel.app/java-icon.svg" width="65" height="65" alt="Java">
+  <img src="https://techstack-generator-tsg.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript">
+  <img src="https://techstack-generator-tsg.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL">
+  
 </p>
 
 ### 🚀 Currently Building
@@ -362,80 +372,13 @@ A personal portfolio website to showcase my projects, skills, and development jo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=120&section=footer"/>
 
 </div>
-
-<h2 align="center">⚡ Tech Stack</h2>
-
-<p align="center">
-  <i>Technologies I use to build and learn software</i>
-</p>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="55" alt="Python">
-<br><b>Python</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=django" width="55" alt="Django">
-<br><b>Django</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=java" width="55" alt="Java">
-<br><b>Java</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript">
-<br><b>JavaScript</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL">
-<br><b>MySQL</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postgresql" width="55" alt="PostgreSQL">
-<br><b>PostgreSQL</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js">
-<br><b>Node.js</b>
-</td>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=express" width="55" alt="Express.js">
-<br><b>Express.js</b>
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB">
-<br><b>MongoDB</b>
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
+## ✨ Animation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:006633&height=2&section=header&width=700">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python">
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL">
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" alt="Git">
 </p>

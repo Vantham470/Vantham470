@@ -53,29 +53,51 @@ Favorite Languages:
 
 ## ⚡ Tech Stack
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,java,spring,nodejs" height="45">
+### 🚀 Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,java,spring,nodejs&perline=5" height="55" alt="Backend Technologies">
 </p>
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" height="45">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Python+%7C+Django+%7C+Java+%7C+Spring+Boot+%7C+Node.js" alt="Backend Animation">
 </p>
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" height="45">
+### 🌐 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript&perline=3" height="55" alt="Frontend Technologies">
 </p>
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="45">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+JavaScript" alt="Frontend Animation">
+</p>
+
+### 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb&perline=4" height="55" alt="Database Technologies">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=MySQL+%7C+PostgreSQL+%7C+SQLite+%7C+MongoDB" alt="Database Animation">
+</p>
+
+### 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" height="55" alt="Development Tools">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=Git+%7C+GitHub+%7C+VS+Code+%7C+Linux" alt="Tools Animation">
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ff88&height=3&width=100%" width="100%" alt="Divider"/>
+</p>
 
 ## 🧠 Backend Skills
 
@@ -83,15 +105,30 @@ Favorite Languages:
 <tr>
 <td width="50%" valign="top">
 
-**Core Concepts**
-- 🔗 REST API Development
-- 🗄️ CRUD Applications
-- 🏗️ Database Design
-- 🔐 Authentication *(Learning)*
-- 📊 SQL
+### 💻 Core Concepts
+
+* 🔗 REST API Development
+* 🗄️ CRUD Applications
+* 🏗️ Database Design
+* 🔐 Authentication *(Learning)*
+* 📊 SQL
 
 </td>
+
 <td width="50%" valign="top">
+
+### 🚀 Currently Building
+
+* 🐍 Django Backend Projects
+* ☕ Java Applications
+* 🌐 REST APIs
+* 🗄️ Database-Driven Applications
+* 🔧 Backend Portfolio Projects
+
+</td>
+</tr>
+</table>
+
 
 **Practices & Patterns**
 - 🧱 Object-Oriented Programming
@@ -356,3 +393,80 @@ A personal portfolio website to showcase my projects, skills, and development jo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=120&section=footer"/>
 
 </div>
+
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+  <i>Technologies I use to build and learn software</i>
+</p>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="55" alt="Python">
+<br><b>Python</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=django" width="55" alt="Django">
+<br><b>Django</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="55" alt="Java">
+<br><b>Java</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript">
+<br><b>JavaScript</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL">
+<br><b>MySQL</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgresql" width="55" alt="PostgreSQL">
+<br><b>PostgreSQL</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js">
+<br><b>Node.js</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="55" alt="Express.js">
+<br><b>Express.js</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB">
+<br><b>MongoDB</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff88,100:006633&height=2&section=header&width=700">
+</p>

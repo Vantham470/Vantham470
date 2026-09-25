@@ -301,17 +301,20 @@ A personal portfolio website to showcase my projects, skills, and development jo
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vantham470&theme=gruvbox"/>
+<img src="https://streak-stats.demolab.com?user=Vantham470&theme=tokyonight"/>
 
 </div>
+
+
 
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vantham470&theme=tokyonight&no-frame=true&margin-w=10&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vantham470&theme=monokai&no-frame=true&margin-w=10&column=7" width="100%"/>
 
 </div>
+
 
 ## 🐍 Contribute Snake
 

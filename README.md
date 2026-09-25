@@ -285,18 +285,24 @@ A personal portfolio website to showcase my projects, skills, and development jo
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vantham470&show_icons=true&hide_border=true&bg_color=000000&title_color=FF5E00&icon_color=FF5E00&text_color=E0E0E0" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vantham470&layout=compact&hide_border=true&bg_color=000000&title_color=FF5E00&text_color=E0E0E0" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vantham470&show_icons=true&theme=radical&rank_icon=default" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vantham470&layout=compact&theme=radical" width="40%"/>
 
 </div>
 
-<br>
+## 📊 GitHub Stats
 
----
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vantham470&show_icons=true&theme=radical&rank_icon=default" width="48%"/>
+
+</div>
+
+
 ## 🔥 GitHub Streak
 
 <div align="center">

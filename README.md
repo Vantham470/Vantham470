@@ -85,7 +85,7 @@ Favorite Languages:
 
 ---
 
-## ✨ Animation
+## ✨ Top Language Used
 
 <p align="center">
   <img src="https://techstack-generator-tsg.vercel.app/python-icon.svg" width="65" height="65" alt="Python">

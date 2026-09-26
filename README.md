@@ -307,6 +307,9 @@ _Future plan: deploy using **Vercel** or **Render** once development is complete
 <br/>
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vantham470&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</p>
 
 
 ## 📊 GitHub Statistics
@@ -318,13 +321,6 @@ _Future plan: deploy using **Vercel** or **Render** once development is complete
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vantham470&show_icons=true&theme=radical&rank_icon=default" width="48%"/>
-
-</div>
 
 ## 🔥 GitHub Streak
 
@@ -400,10 +396,4 @@ _Future plan: deploy using **Vercel** or **Render** once development is complete
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=120&section=footer"/>
 
-</div>
-
-
-
- <img alt="Most used languages" width="350" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=cheakhokkeat&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"/>
-  <br><br>
 </div>

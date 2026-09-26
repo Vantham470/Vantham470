@@ -253,45 +253,6 @@ Favorite Stack:
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>⏳ Short-Term (Next 1-3 Months)</h4>
-      <ul>
-        <li><b>Master Django & SQL</b></li>
-        <li>Build 2 full-stack projects linking Django with MS SQL Server</li>
-        <li><b>Java Foundations</b></li>
-        <li>Implement OOP concepts and core Java libraries</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🚀 Mid-Term (Next 3-6 Months)</h4>
-      <ul>
-        <li><b>Data Structures & Algos</b></li>
-        <li>Solve 100+ DSA problems (Arrays, Trees, Graphs)</li>
-        <li><b>API Integration</b></li>
-        <li>Build robust RESTful APIs & implement JWT authentication</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🌌 Long-Term (6+ Months)</h4>
-      <ul>
-        <li><b>AI & Machine Learning</b></li>
-        <li>Integrate ML models into Django web applications</li>
-        <li><b>System Architecture</b></li>
-        <li>Learn system design, caching (Redis), and cloud deployment</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<!-- A clean divider with breathing room -->
-<br>
-<hr>
-<br>
-
 ## 📚 Currently Learning & Future Goals
 
 ### 📖 Currently Learning
@@ -311,90 +272,7 @@ Favorite Stack:
 - [ ] ⚡ **Redis**
 - [ ] 🔄 **CI/CD**
 - [ ] 🏛️ **System Design**
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔢 JavaScript Counter Program
-
-A responsive web counter with increment, decrement, and reset functionality.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-[![Repo](https://img.shields.io/badge/View-Repository-0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vantham470/counter-program)
-
-</td>
-<td width="50%">
-
-### 🐍 Django Backend Web Project
-
-Backend web app built with Django to practice routing, database management, authentication, and server-side rendering.
-
-**Tech:** `Python` `Django` `SQLite` `Git`
-
-[![Repo](https://img.shields.io/badge/View-Repository-0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vantham470/Django.project)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💼 Developer Portfolio
-
-A personal portfolio website showcasing my projects, technical skills, and development journey.
-
-**Status:** `In Progress`
-
-</td>
-<td width="50%">
-
-### 🎾 Tennis Club Management System
-
-Management system for organizing tennis club members and records.
-
-**Status:** `In Progress`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 Telegram Bot
-
-Python Telegram bot exploring automation and API integration.
-
-**Tech:** `Python` `Telegram API`
-
-</td>
-<td width="50%">
-
-### 🎓 Student Management System
-
-Application for managing student information using CRUD operations.
-
-**Status:** `In Progress`
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
-
-## 🌐 Portfolio
-
-A personal portfolio website to showcase my projects, skills, and development journey.
-
-> 🚧 **Coming Soon** — my personal developer portfolio is currently under development.
-
-### 🛠️ Tech Stack & Tools
-
-- **Languages & Web:** `Python` • `HTML` • `CSS` • `JavaScript`
-- **Framework:** `Django`
-- **Databases:** `SQLite` • `MySQL`
+      
 
 ---
 
@@ -407,19 +285,7 @@ A personal portfolio website to showcase my projects, skills, and development jo
 
 _Future plan: deploy using **Vercel** or **Render** once development is complete._
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
-
-## 🎯 2026 Goals
-
-- 🎯 Become a **Backend Developer**
-- 🏗️ Build production-ready **Django** projects
-- 🐳 Learn **Docker**
-- 📊 Improve **SQL** knowledge
-- 🔗 Master **REST APIs**
-- 🌍 Contribute to **open source**
-- 🎓 Complete my **Software Development degree**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" width="100%"/>
+---
 
 <div align="center">
 
@@ -439,12 +305,9 @@ _Future plan: deploy using **Vercel** or **Render** once development is complete
 </p>
 
 <br/>
-
-
-
-<br/>
-
 </div>
+
+
 
 ## 📊 GitHub Statistics
 
@@ -540,3 +403,7 @@ _Future plan: deploy using **Vercel** or **Render** once development is complete
 </div>
 
 
+
+ <img alt="Most used languages" width="350" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=cheakhokkeat&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff"/>
+  <br><br>
+</div>

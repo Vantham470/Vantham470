@@ -40,7 +40,7 @@ Favorite Stack:
 
 - 🎓 I'm a **Software Development student**, currently building a strong foundation in backend engineering.
 - 💻 I'm passionate about building **modern web applications** and understanding how systems work behind the scenes.
-- 🎯 My goal is to become a **Backend Developer**, focused on writing clean, reliable, and scalable code.
+- 🎯 My goal is to become a **Software Engineer**, focused on writing clean, reliable, and scalable code.
 - 🧩 I genuinely enjoy **solving programming problems** and picking up new technologies along the way.
 - 🌱 Every project I build is a step toward real-world, production-ready development skills.
 
